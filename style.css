@@ -1,0 +1,21 @@
+#webcam{
+Height: 300px;
+width: 370px;
+border-style:solid;
+color:white;
+}
+#picture{
+    Height: 300px;
+    width: 370px;
+    border-style:solid;
+    color:white;
+    }
+ #la1{
+ height:200px;
+ }
+body{
+    background-color:deepskyblue
+}
+#b1{
+    color:white;
+}
